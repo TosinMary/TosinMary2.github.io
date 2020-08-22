@@ -1,0 +1,23 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.height1{
+    min-height: 150px;
+}
+.title-base-line{
+    width: 200px;
+    height: 5px;
+    margin: 0 auto;
+}
+.yes{
+    list-style-type: none;
+    padding-top: 10px;
+}
+.writting{
+    line-height: 30px;
+    text-decoration: none;
+    text-align: left;
+}
+.footere{
+    text-align: center;
+}
